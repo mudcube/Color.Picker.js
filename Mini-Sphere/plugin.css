@@ -1,0 +1,29 @@
+body { BACKGROUND: #FFF; COLOR: #D4D4D4; FONT-FAMILY: arial, helvetica, san-serif; FONT-SIZE: 12px; MARGIN: 0; PADDING: 0; TEXT-ALIGN: center; }
+select,input { FONT-SIZE: 12px; }
+img { BORDER: 0; }
+a { COLOR: #999; }
+a:hover { COLOR: #e04f92; }
+
+#everything { WIDTH: 770px; MARGIN: 0 auto; TEXT-ALIGN: left; PADDING-BOTTOM: 25px; }
+
+#colorspy { border: 2px solid #EEEEEE; padding: 7px 0 20px 20px; margin: 0 0 7px 0; font-size: 16px; text-align: left; COLOR: #555; background: #fbfbfb; }
+#colorspy a { COLOR: #e04f92; }
+#colorspy legend { font-size: 17px; color: #bbb; padding: 0; }
+
+.botLine { BORDER-TOP: 1px solid #EEE; WIDTH: 370px; MARGIN-TOP: 9px; PADDING-TOP: 9px; COLOR: #999; }
+.botLine a { COLOR: #e04f92; }
+.botLine a:hover { COLOR: #F360BB; }
+
+/* PLUGIN */
+
+#mini { COLOR: #999; CURSOR: move; FONT-FAMILY: arial, helvetica, san-serif; FONT-SIZE: 11px; POSITION: absolute; background: #000; padding-bottom: 8px; border: 1px solid #111; WIDTH: 148px; HEIGHT: 155px; Z-INDEX: 100; }
+#mini div { margin: 0; padding: 0; }
+#mini .north { background: #111; border-bottom: 1px solid #171717; }
+#mini .north div { color: #999; float: right; padding: 5px 7px; CURSOR: pointer; -moz-user-select: none; -khtml-user-select: none; user-select: none; }
+#mini .north div:hover { COLOR: #DE83AD; }
+#mini .south { margin: 32px 0 0 10px; cursor: crosshair; -moz-user-select: none; -khtml-user-select: none; user-select: none; }
+#mini .south div { background: url('media/miniCurr.gif') no-repeat; position: absolute; height: 9px; width: 9px; z-index: 101; }
+#mini .south img { height: 100%; WIDTH: 100%; position: relative; TOP: -8px; LEFT: -1px; }
+#mini #mHEX { padding: 5px 0 4px 7px; cursor: text; float: left; }
+#mini #mHEX:hover { color: #DE83AD }
+#mini #mSize { float: right; top: -14px; left: 7px; height: 14px; width: 14px; cursor: se-resize }

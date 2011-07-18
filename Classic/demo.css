@@ -1,0 +1,62 @@
+body {
+	background:#FFF;
+	color:#D4D4D4;
+	font-family:times, Times New Roman, times-roman, georgia, serif;
+	font-size:12px;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+
+select,input {
+	font-size:12px;
+}
+
+img {
+	border:0;
+}
+
+a {
+	color:#999;
+}
+
+#everything {
+	margin:0 auto;
+	padding-bottom:25px;
+	text-align:left;
+	width:770px;
+}
+
+#colorspy {
+	background:#fbfbfb;
+	border:2px solid #EEE;
+	color:#555;
+	font-size:16px;
+	margin:20px 0 7px;
+	padding:7px 0 20px 20px;
+	text-align:left;
+}
+
+#colorspy legend {
+	color:#bbb;
+	font-size:1.1em;
+	padding:0;
+}
+
+#testSwatch {
+	background:#333;
+	border:1px solid #333;
+	color:#000;
+	font-size:25px;
+	height:120px;
+	margin:12px 0 0 240px;
+	padding-top:65px;
+	text-align:center;
+	width:480px;
+	text-shadow: 0 0 0.1em #fff;
+	height: 130px;
+}
+
+a:hover, #colorspy a {
+	color:#e04f92;
+}
