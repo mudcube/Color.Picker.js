@@ -1,18 +1,12 @@
-License: MIT
-
 Color Picker: Classic
 ----------------------
-This color picker uses no external images, it’s made with <canvas> (5kb zipped). 
-It’s been cleaned up greatly; and is more modularized than previous versions.
-Still requiring no external libraries. 
-The older version (created in all DIV’s and backwards compatable with older versions of IE can be found here (19kb); 
+The latest rendition of the Color Picker “Classic”, themed after Photoshop, GIMP, and other image editors—there are no frills here, it’s a basic Hue, Saturation, Value, and Alpha (HSVA) color selector. 
 
 Color Picker: HSL + RGBA
 -------------------------
 This color picker allows you to create colors with fine detail. 
 You can actually see the changes in <canvas> as you adjust the Hue, Saturation, Value along with the Red, Green, and Blue values. 
-Much more interactive color picker :) Also, the entire package gzipped is only 12k!
 
 Color Picker: Sphere
 ---------------------
-The main benefit of the Color Sphere over the traditional Color Picker is it’s size, it barely takes up any pixel space at all.  Want more precision? You can resize it!
+The main benefit of the Color Sphere over the traditional Color Picker is it’s size, it barely takes up any pixel space at all.  Need more precision? You can resize it!
