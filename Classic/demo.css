@@ -48,13 +48,12 @@ a {
 	border:1px solid #333;
 	color:#000;
 	font-size:25px;
-	height:120px;
-	margin:12px 0 0 240px;
 	padding-top:65px;
 	text-align:center;
-	width:480px;
-	text-shadow: 0 0 0.1em #fff;
-	height: 130px;
+	width:440px;
+	margin-right: 20px;
+	float: right;
+	height: 185px;
 }
 
 a:hover, #colorspy a {
